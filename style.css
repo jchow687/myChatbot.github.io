@@ -25,13 +25,14 @@ header h2 {
     0 32px 64px -48px rgba(0, 0, 0, 0.2);
 }
 .chatbot header{
+    color: #ffffff;
     background: #724ae8;
     padding: 16px 0;
     text-align: center;
 }
 
 .chatbot header2 h2{
-    color: #fff;
+    color: #ffffff;
     font-size: 1.4rem;
 }
 
